@@ -12,7 +12,6 @@
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     </div>
 </div>
     
