@@ -21,15 +21,9 @@
 
 ---
 
-### 📈 GitHub 통계 (Stats & Activity)
+### 📈 GitHub 통계
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B0Light&show_icons=true&theme=dark&rank_icon=github&count_private=true&hide_border=true" alt="GitHub Stats">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0Light&layout=compact&langs_count=5&theme=dark&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B0Light&theme=dark&hide_border=true" alt="GitHub Streak Stats">
 </p>
 
@@ -39,11 +33,10 @@
 
 ---
 
-<br><br>
-<div align= "center"> 
+<p align= "left"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 P ‧ S 💻 </h2> 
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mrtime">
-</div>
+</p>
 
 ---
 
