@@ -14,15 +14,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
     </div>
 </div>
-   
-
-
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-    <div align= "center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=B0Light&bg_color=60,4d22b3,94e3fe&title_color=fffbb9&text_color=fffbb9"> 
-    </div> 
-</div>
+  
 <br><br>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 P ‧ S 💻 </h2> 
